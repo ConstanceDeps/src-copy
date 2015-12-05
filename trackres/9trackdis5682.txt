@@ -1,0 +1,3 @@
+The delay being tracked starts at node -1
+Time Index Value 
+0 -1 -1

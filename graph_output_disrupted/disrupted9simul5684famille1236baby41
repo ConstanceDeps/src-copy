@@ -1,0 +1,13 @@
+// disrupted9simul5684famille1236baby41
+digraph {
+	8 [label=8 color=2 colorscheme=reds9 style=filled]
+		1 -> 0
+		2 -> 0
+		3 -> 0
+		4 -> 3
+		5 -> 4
+		6 -> 4
+		7 -> 2
+		7 -> 4
+		8 -> 4
+}

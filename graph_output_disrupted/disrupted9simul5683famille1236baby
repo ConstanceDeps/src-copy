@@ -1,0 +1,10 @@
+// disrupted9simul5683famille1236baby
+digraph {
+		1 -> 0
+		2 -> 0
+		3 -> 0
+		5 -> 4
+		6 -> 4
+		7 -> 4
+		8 -> 4
+}

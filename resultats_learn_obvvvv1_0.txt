@@ -1,0 +1,2211 @@
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+
+Shape of feature is 4776
+graph number 0from back end 
+
+graph number 1from back end 
+
+graph number 2from back end 
+
+graph number 3from back end 
+
+graph number 4from back end 
+
+graph number 5from back end 
+
+graph number 6from back end 
+
+graph number 7from back end 
+
+graph number 8from back end 
+
+graph number 9from back end 
+
+graph number 10from back end 
+
+graph number 11from back end 
+
+graph number 12from back end 
+
+graph number 13from back end 
+
+graph number 14from back end 
+
+graph number 15from back end 
+
+graph number 16from back end 
+
+graph number 17from back end 
+
+graph number 18from back end 
+
+graph number 19from back end 
+
+graph number 20from back end 
+
+graph number 21from back end 
+
+graph number 22from back end 
+
+graph number 23from back end 
+
+graph number 24from back end 
+
+graph number 25from back end 
+
+graph number 26from back end 
+
+graph number 27from back end 
+
+graph number 28from back end 
+
+graph number 29from back end 
+
+graph number 30from back end 
+
+graph number 31from back end 
+
+graph number 32from back end 
+
+graph number 33from back end 
+
+graph number 34from back end 
+
+graph number 35from back end 
+
+graph number 36from back end 
+
+graph number 37from back end 
+
+graph number 38from back end 
+
+graph number 39from back end 
+
+graph number 40from back end 
+
+graph number 41from back end 
+
+graph number 42from back end 
+
+graph number 43from back end 
+
+graph number 44from back end 
+
+graph number 45from back end 
+
+graph number 46from back end 
+
+graph number 47from back end 
+
+graph number 48from back end 
+
+graph number 49from back end 
+
+graph number 50from back end 
+
+graph number 51from back end 
+
+graph number 52from back end 
+
+graph number 53from back end 
+
+graph number 54from back end 
+
+graph number 55from back end 
+
+graph number 56from back end 
+
+graph number 57from back end 
+
+graph number 58from back end 
+
+graph number 59from back end 
+
+graph number 60from back end 
+
+graph number 61from back end 
+
+graph number 62from back end 
+
+graph number 63from back end 
+
+graph number 64from back end 
+
+graph number 65from back end 
+
+graph number 66from back end 
+
+graph number 67from back end 
+
+graph number 68from back end 
+
+graph number 69from back end 
+
+graph number 70from back end 
+
+graph number 71from back end 
+
+graph number 72from back end 
+
+graph number 73from back end 
+
+graph number 74from back end 
+
+graph number 75from back end 
+
+graph number 76from back end 
+
+graph number 77from back end 
+
+graph number 78from back end 
+
+graph number 79from back end 
+
+graph number 80from back end 
+
+graph number 81from back end 
+
+graph number 82from back end 
+
+graph number 83from back end 
+
+graph number 84from back end 
+
+graph number 85from back end 
+
+graph number 86from back end 
+
+graph number 87from back end 
+
+graph number 88from back end 
+
+graph number 89from back end 
+
+graph number 90from back end 
+
+graph number 91from back end 
+
+graph number 92from back end 
+
+graph number 93from back end 
+
+graph number 94from back end 
+
+graph number 95from back end 
+
+graph number 96from back end 
+
+graph number 97from back end 
+
+graph number 98from back end 
+
+graph number 99from back end 
+

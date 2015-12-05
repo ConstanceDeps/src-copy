@@ -1,0 +1,6 @@
+Algorithm is Decision Tree
+Number of subset is 1
+[0, 1, 79, 0, 20]
+perfect predictions: 10
+not perfect1.67777777778
+ bad prediction but still one identified 27

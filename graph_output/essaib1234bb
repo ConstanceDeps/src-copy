@@ -1,0 +1,21 @@
+// essaib1234bb
+digraph {
+	0 [label=0 color=1 colorscheme=paired12 style=filled]
+	1 [label=1 color=2 colorscheme=paired12 style=filled]
+	2 [label=2 color=2 colorscheme=paired12 style=filled]
+	3 [label=3 color=2 colorscheme=paired12 style=filled]
+	4 [label=4 color=3 colorscheme=paired12 style=filled]
+	5 [label=5 color=3 colorscheme=paired12 style=filled]
+	6 [label=6 color=4 colorscheme=paired12 style=filled]
+	7 [label=7 color=4 colorscheme=paired12 style=filled]
+	8 [label=8 color=4 colorscheme=paired12 style=filled]
+		1 -> 0
+		2 -> 0
+		3 -> 0
+		3 -> 4
+		4 -> 3
+		5 -> 2
+		5 -> 4
+		7 -> 4
+		8 -> 5
+}

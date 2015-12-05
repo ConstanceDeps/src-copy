@@ -1,0 +1,7 @@
+Algorithm is Random Forest
+Number of subset is 10
+[0, 0, 773, 0, 227]
+perfect predictions: 221
+not perfect0.0603337612323
+ bad prediction but still one identified 21
+bad prediction 0 identified 748

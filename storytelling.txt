@@ -1,0 +1,64 @@
+Disruption propagates at time 5 from 8 to 1 neighbour(s) 
+Disruption affects 4 at time 5 from 8 with a delay of 94
+Disruption propagates at time 10 from 4 to 3 neighbour(s) 
+Disruption affects 3 at time 10 from 4 with a delay of 180
+Disruption affects 5 at time 10 from 4 with a delay of 180
+Disruption affects 6 at time 10 from 4 with a delay of 180
+Disruption propagates at time 15 from 4 to 3 neighbour(s) 
+Disruption affects 5 at time 15 from 4 with a delay of 113
+Disruption affects 6 at time 15 from 4 with a delay of 113
+Disruption propagates at time 15 from 5 to 1 neighbour(s) 
+Disruption propagates at time 15 from 6 to 1 neighbour(s) 
+Disruption affects 4 at time 15 from 6 with a delay of 168
+Disruption propagates at time 16 from 3 to 1 neighbour(s) 
+Disruption reaches Boeing at time 16 from 3 with a delay of 108
+Disruption solved at time 20 at location 5
+Disruption propagates at time 20 from 6 to 1 neighbour(s) 
+Disruption affects 4 at time 20 from 6 with a delay of 90
+ts 4 at time 20 from 6 with a delay of 51
+Disruption solved at time 22 at location 6
+ to 1 neighbour(s) 
+Disruption reaches Boeing at time 22 from 3 with a delay of 180
+a delay of 175
+Disruption propagates at time 20 from 5 to 1 neighbour(s) 
+Disruption affects 4 at time 20 from 5 with a delay of 180
+Disruption propagates at time 20 from 6 to 1 neighbour(s) 
+ a delay of 180
+ved at time 20 at location 6
+pagates at time 20 from 6 to 1 neighbour(s) 
+Disruption affects 4 at time 20 from 6 with a delay of 180
+from 5 with a delay of 20
+on 4
+Disruption solved at time 23 at location 5
+gates at time 23 from 5 to 1 neighbour(s) 
+Disruption affects 4 at time 23 from 5 with a delay of 41
+Disruption solved at time 24 at location 3
+ffects 6 at time 24 from 4 with a delay of 73
+50
+solved at time 25 at location 3
+Disruption solved at time 25 at location 5
+Disruption solved at time 27 at location 2
+Disruption propagates at time 28 from 4 to 3 neighbour(s) 
+Disruption affects 3 at time 28 from 4 with a delay of 126
+Disruption affects 6 at time 28 from 4 with a delay of 126
+lved at time 29 at location 5
+ at location 2
+m 6 to 3 neighbour(s) 
+Disruption affects 2 at time 26 from 6 with a delay of 72
+Disruption affects 4 at time 26 from 6 with a delay of 72
+Disruption solved at time 27 at location 4
+ion solved at time 27 at location 3
+ at time 25 from 2 with a delay of 180
+Disruption affects 3 at time 25 from 2 with a delay of 180
+delay of 180
+2
+Disruption solved at time 26 at location 1
+ay of 180
+ith a delay of 34
+Disruption propagates at time 25 from 2 to 1 neighbour(s) 
+Disruption reaches Boeing at time 25 from 2 with a delay of 180
+Disruption propagates at time 25 from 4 to 2 neighbour(s) 
+Disruption affects 2 at time 25 from 4 with a delay of 180
+Disruption affects 8 at time 25 from 4 with a delay of 180
+me 29 at location 3
+ at time 29 at location 7

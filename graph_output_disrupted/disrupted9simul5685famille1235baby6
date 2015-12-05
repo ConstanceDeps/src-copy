@@ -1,0 +1,17 @@
+// disrupted9simul5685famille1235baby6
+digraph {
+	5 [label=5 color=9 colorscheme=reds9 style=filled]
+	8 [label=8 color=9 colorscheme=reds9 style=filled]
+		1 -> 0
+		1 -> 8
+		1 -> 4
+		2 -> 0
+		2 -> 4
+		3 -> 0
+		4 -> 2
+		4 -> 6
+		5 -> 3
+		6 -> 4
+		7 -> 4
+		8 -> 5
+}

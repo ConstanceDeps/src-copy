@@ -1,0 +1,7 @@
+Algorithm is AdaBoost
+Number of subset is 10
+[0, 1, 734, 0, 265]
+perfect predictions: 243
+not perfect0.224570673712
+ bad prediction but still one identified 54
+bad prediction 0 identified 660
